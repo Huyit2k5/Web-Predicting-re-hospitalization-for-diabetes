@@ -1,0 +1,8 @@
+{
+  "name": "ReadmitPath AI",
+  "description": "Clinical intelligence platform for diabetes readmission analytics and patient risk prediction powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
